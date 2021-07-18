@@ -1,0 +1,1 @@
+The manager can either approve or reject the leave requested by the requestor. he should notify the requestor with number of days he was permitted to take leave, the salary he may deduct for the leave , works to be done in the course of the leave , etc.
