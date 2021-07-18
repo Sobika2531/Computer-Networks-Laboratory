@@ -1,0 +1,1 @@
+The company admin should manage the login/logout details of the employees/HR/TL of various branches. he should direct an requestor's leave request to the manager of the branch in which the he works.
